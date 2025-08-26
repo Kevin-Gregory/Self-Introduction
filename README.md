@@ -3,7 +3,7 @@
 - 👀 I’m interested in study digital products.  
 - 🌱 I’m currently learning C++    
 - 💞️ I hope there are peers who can study with me.            
-- 📫 My eamil is zehaoli51@gmail.com or 605667559@qq.com                          
+- 📫 My eamil is zehaoli51@gmail.com                      
 - 😄 Pronouns: Kevin  
 
 <!---
